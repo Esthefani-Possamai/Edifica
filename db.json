@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "name": "Amaury possamai",
+      "budget": "9622",
+      "category": {
+        "id": "3",
+        "name": "Equipe de construção e empreitada"
+      },
+      "cost": null,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Regulamentação"
+    },
+    {
+      "id": 2,
+      "name": "Projetos"
+    },
+    {
+      "id": 3,
+      "name": "Equipe de construção e empreitada"
+    },
+    {
+      "id": 4,
+      "name": "Canteiro de obras"
+    },
+    {
+      "id": 5,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 6,
+      "name": "Superestrutura"
+    },
+    {
+      "id": 7,
+      "name": "Revestimentos"
+    },
+    {
+      "id": 8,
+      "name": "Iluminação"
+    },
+    {
+      "id": 9,
+      "name": "Hidrossanitário"
+    },
+    {
+      "id": 10,
+      "name": "Louças e metais"
+    },
+    {
+      "id": 11,
+      "name": "Jardim e paisagismo"
+    },
+    {
+      "id": 12,
+      "name": "Limpeza"
+    }
+  ]
+}
