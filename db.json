@@ -1,17 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Amaury possamai",
-      "budget": "9622",
-      "category": {
-        "id": "3",
-        "name": "Equipe de construção e empreitada"
-      },
-      "cost": null,
-      "services": [],
-      "id": 2
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
